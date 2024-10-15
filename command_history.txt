@@ -2,4 +2,3 @@ git clone https://github.com/tu-usuario/HLC_P1.git
 git checkout -b juan_garcia_v1
 git add .
 git commit -m "Add used commands"
-git push --set-upstream origin juan_garcia_v1

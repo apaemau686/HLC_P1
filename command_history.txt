@@ -3,4 +3,7 @@ git checkout -b pablo_rodriguez_v1
 git add .
 git commit -m 'Add used commands'
 git push --set-upstream origin pablo_rodriguez_v1
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0263d9d06d468743e85a4e02c80e56fe2707d19f

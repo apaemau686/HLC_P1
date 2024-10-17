@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+Carmen Rodriguez
+=======
+Hola como estas
+>>>>>>> b92c09e (Update history from command line)
+
+git clone https://github.com/apaemau686/HLC_P1.git
+git checkout -b <nombre_apellidos_v1>

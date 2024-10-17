@@ -6,3 +6,5 @@ Hola como estas
 
 git clone https://github.com/apaemau686/HLC_P1.git
 git checkout -b <nombre_apellidos_v1>
+
+Text to revert
